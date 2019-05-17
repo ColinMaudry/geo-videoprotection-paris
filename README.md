@@ -11,7 +11,7 @@ L'objectif de ce dépôt est :
 Il y a en fait deux listes d'emplacements :
 
 - annexe 1 (1 391 emplacements) :  le plan de Vidéoprotection pour la Préfecture de Police
-- annexe 2 (?):  le plan de Vidéoprotection pour Paris, liste des caméras visibles par les agents habilités de la Ville de Paris
+- annexe 2 (890 emplacements) : le plan de Vidéoprotection pour Paris, liste des caméras visibles par les agents habilités de la Ville de Paris
 
 Ces deux listes ont de nombreux emplacements en commun.
 

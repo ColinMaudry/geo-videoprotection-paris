@@ -1,14 +1,12 @@
 Code postal;Numéro;Implantation
 75001;44805;Rue de Rivoli, rue du 29 Juillet
 75001;46685;Avenue du Général Lemonnier, rue de Rivoli
-;;#N/A
 75001;58791;Place Joachim du Bellay, rue des Innocents
 75001;67140;Rue de Rivoli, rue de Marengo
 75001;67865;Rue Coquillière, rue du Louvre
 75001;70744;Place Maurice Quentin
 75001;74254;Rue du Cygne, rue Saint-Denis
 75001;77747;Place Joachim du Bellay, rue Berger, rue Saint-Denis
-;;#N/A
 75001;79769;Rue Croix des Petits Champs, rue Vrillière
 75001;79777;Place du Carrousel
 75001;79901;Rue de Rivoli, rue de Castiglione
@@ -16,10 +14,8 @@ Code postal;Numéro;Implantation
 75001;82655;Rue Pierre Lescot, rue de la Cossonnerie
 75001;88364;Pont Neuf amont — Seine
 75001;92689;Pont de la Concorde aval — Seine
-;;#N/A
 75001;99000;Quai François Mitterrand, Pont du Carrousel
 75001;99375;Pont Neuf en aval — Seine
-;;#N/A
 75002;02033;Rue de la Lune, rue Notre-Dame de Bonne Nouvelle
 75002;12927;Rue du Saint-Denis, rue Greneta
 75002;15493;Boulevard des Capucines, rue Caumartin
@@ -32,15 +28,12 @@ Code postal;Numéro;Implantation
 75002;40753;Rue Daunou, rue de la Paix
 75002;67171;19, boulevard Poissonnière
 75002;70766;Boulevard des Italiens, rue de la Michodière
-;;#N/A
 75002;72618;Boulevard Poissonnière, rue Poissonnière
 75002;72870;Rue Radziwill, rue des Petits Champs
 75002;78022;Rue Réaumur, rue des Petits Carreaux
 75002;88097;Boulevard Poissonnière, rue Montmartre
 75002;89465;Rue Danielle Casanova, avenue de l'Opéra
-;;#N/A
 75002;89516;Boulevard des Italiens, rue Le Peletier, rue Favart
-;;#N/A
 75002;91229;Boulevard Saint-Denis, boulevard de Sébastopol
 75002;96475;Rue Vivienne, boulevard Montmartre
 75003;03033;Rue de Montgolfier, rue Borda
@@ -48,9 +41,7 @@ Code postal;Numéro;Implantation
 75003;03040;Rue Vieille du Temple, rue de la Perle
 75003;23535;Rue du Temple, rue Rambuteau
 75003;27377;Rue de Turbigo, rue des Fontaines du Temple
-;;#N/A
 75003;27643;Place de la République, boulevard du Temple
-;;#N/A
 75003;29963;Boulevard Beaumarchais, rue Saint-Sébastien
 75003;36697;Rue Réaumur, rue de Turbigo
 75003;40244;Boulevard de Sébastopol, rue de Turbigo
@@ -63,7 +54,6 @@ Code postal;Numéro;Implantation
 75005;62185;Rue Saint-Jacques, rue Gay Lussac
 75005;63441;81, boulevard de Port-Royal
 75005;65348;Quai de Montebello, rue du Petit Pont
-;;#N/A
 75005;65680;Place du Panthéon, rue d'Ulm, rue Clotaire
 75005;69567;Place Saint-Michel, pont Saint-Michel
 75005;73849;Rue Saint-Julien le Pauvre, rue Galande
@@ -71,52 +61,37 @@ Code postal;Numéro;Implantation
 75005;92343;Rue des Bernardins, quai de la Tournelle
 75005;96233;Pont Saint-Michel rive gauche en aval — Seine
 75005;96546;Rue Monge, rue Censier
-;;#N/A
 75006;06034;Rue Auguste Comte, avenue de l'Observatoire, place André Honorat
 75006;10124;Rue de Rennes, rue de Vaugirard
-;;#N/A
 75006;11093;Boulevard Saint-Germain, place Saint-Germain-des-Prés
 75006;11106;Boulevard Saint-Michel, rue Serpente
 75006;13067;Boulevard Raspail, rue de Rennes
-;;#N/A
 75006;23489;Boulevard Saint-Germain, rue de l'Ecole de Médecine
-;;#N/A
 75006;24647;Rue des Saints-Pères, boulevard Saint-Germain
 75006;26704;Rue d'Assas, rue de Rennes
 75006;27767;Pont Neuf, rive Gauche
-;;#N/A
 75006;27809;Place de l'Acadie, rue de Buci, boulevard Saint-Germain
 75006;29482;Rue d'Assas, rue Auguste Comte
 75006;30579;Rue du Four, rue du Cherche Midi
 75006;31195;Quai de Conti, pont Neuf
 75006;35348;Rue de l'Ecole de Médecine, boulevard Saint-Michel, rue Racine
-;;#N/A
-;;#N/A
 75006;41562;Boulevard Raspail, boulevard du Montparnasse
-;;#N/A
-;;#N/A
 75006;43190;Rue de Sèvres, boulevard Raspail
-;;#N/A
 75006;57429;Place Henri Mondor — boulevard Saint- Germain, rue de l'Odéon
 75006;61344;Place de l'Institut
-;;#N/A
 75006;63215;Rue Saint-André des Arts, place Saint- Michel
 75006;64061;Rue de Vaugirard, boulevard Raspail
 75006;64111;Rue Monsieur Le Prince, rue Racine
 75006;69103;Place du 18 Juin 1940, rue de Rennes
 75006;86313;Quai Malaquais, rue Bonaparte
-;;#N/A
 75006;91297;Rue du Vieux Colombier, rue du Cherche Midi
 75006;93838;Rue de Rennes, rue du Four
 75006;98526;Rue du Vieux Colombier, rue Bonaparte
 75007;07080;Quai d'Orsay, rue Robert Esnault Pelterie
-;;#N/A
 75007;07087;Rue de Grenelle, square de La Tour-Maubourg
 75007;07089;Avenue Charles Risler, allée Pierre Loti
-;;#N/A
 75007;07090;Avenue du Docteur Brouardel, alléeThomy Thierry
 75007;10583;Pilier Est de la Tour Eiffel
-;;#N/A
 75007;11361;Place Saint-Thomas d'Aquin, rue Saint-Thomas d'Aquin
 75007;14157;Rue Saint-Dominique, rue Cler
 75007;17103;Quai Branly, avenue de Suffren
@@ -149,7 +124,6 @@ Code postal;Numéro;Implantation
 75008;47380;Place Clémenceau
 75008;49454;Avenue des Champs Elysées, rue Lincoln
 75008;50968;Place Prosper Boubeaux, rue du Rocher
-;;#N/A
 75008;56883;Rue Marbeuf, avenue des Champs-Elysées
 75008;58978;Rue la Boétie, rue d'Artois
 75008;61079;Rue Saint-Lazare, rue d'Amsterdam
@@ -158,16 +132,11 @@ Code postal;Numéro;Implantation
 75008;63118;Rue de Moscou, rue d'Amsterdam
 75008;63259;Avenue des Champs-Elysées, rue Balzac
 75008;64811;Rue Pierre Charron, avenue des Champs-Elysées
-;;#N/A
 75008;68828;Avenue de Friedland, rue du Faubourg Saint-Honoré
 75008;69340;Place République Dominicaine, boulevard de Courcelles, rue Phalsbourg
 75008;71625;Place Saint-Augustin
 75008;72824;Avenue des Champs-Elysées, place de la Concorde
-;;#N/A
 75008;73532;Avenue George V, avenue des Champs-Elysées
-;;#N/A
-;;#N/A
-;;#N/A
 75008;76964;Place de la Concorde, rue Royale
 75008;77583;Place de la Madeleine, rue Royale
 75008;86086;Boulevard Malesherbes, rue de Lisbonne
@@ -181,45 +150,33 @@ Code postal;Numéro;Implantation
 75008;97602;Obélisque, place de la Concorde
 75010;10069;Rue Georg Friedrich Haendel
 75010;10070;5, rue Albert Camus
-;;#N/A
 75010;10072;Rue Saint-Maur, rue du Buisson Saint-Louis
 75010;10075;Rue Léon Schwartzenberg (Médiathèque)
 75010;10079;Rue de l'Aqueduc, rue du Chaudron
-;;#N/A
 75010;10080;Rue du Buisson-Saint-Louis, rue du Chalet
-;;#N/A
 75010;10966;Rue du Faubourg Saint-Martin, rue La Fayette
 75010;12116;Boulevard de Strasbourg, rue Saint-Laurent
-;;#N/A
 75010;12884;Place Napoléon III
 75010;22859;Rue de Chabrol
 75010;25626;Quai de Jemmapes, rue Alibert
-;;#N/A
 75010;25943;Place Johann Strauss, face à la rue deLancry
 75010;27797;Rue du Faubourg du Temple, avenue Parmentier
-;;#N/A
 75010;28234;Boulevard de Magenta, rue La Fayette
 75010;30934;Quai Valmy, rue Beaurepaire, rue Marseille
 75010;32626;Place de Roubaix, boulevard de Magenta, rue de Dunkerque
-;;#N/A
 75010;33253;Porte Saint-Martin
 75010;37472;Rue de Paradis, rue du Faubourg Poissonnière
-;;#N/A
 75010;37532;Rue de Sambre et Meuse, rue Sainte-Marthe
-;;#N/A
 75010;38438;Rue du Faubourg Saint-Martin, rue du Château d'Eau
 75010;45724;Rue du Faubourg Saint-Martin, rue du 8 mai 1945
 75010;48813;Rue du Château Landon, rue Louis Blanc
 75010;50523;Quai de Jemmapes, rue des Ecluses Saint-Martin
 75010;51230;Quai de Valmy, rue Lucien Sampaix, rue Recollet
 75010;55825;Boulevard de Strasbourg, rue du Château d'Eau
-;;#N/A
 75010;56959;Rue du Faubourg Saint-Martin, boulevard de Magenta
 75010;61135;Boulevard Magenta, rue Ambroise Paré
 75010;61137;Rue du Château d'Eau, boulevard de Magenta
-;;#N/A
 75010;62163;Rue de la Grange aux Belles, rue des Ecluses Saint-Martin
-;;#N/A
 75010;65760;Boulevard Magenta, boulevard de Strasbourg
 75010;66168;Place Sainte-Marthe
 75010;72791;Place Robert Desnos
@@ -229,37 +186,27 @@ Code postal;Numéro;Implantation
 75010;75399;Rue du Faubourg Saint-Denis, rue Cail
 75010;77612;Boulevard de la Chapelle, rue de Maubeuge
 75010;78368;Rue de Dunkerque, rue La Fayette
-;;#N/A
 75010;86043;Place du Colonel Fabien, rue de la Grange aux Belles
-;;#N/A
 75010;86066;Rue du Faubourg Saint-Denis, rue Demarquay
 75010;87526;Place Franz Liszt, rue La Fayette
-;;#N/A
 75010;92421;Rue du Faubourg du Temple, boulevard de la Villette
-;;#N/A
 75010;98051;Place de la République, rue du Faubourg du Temple
 75012;33553;Place d'Aligre
 75012;36726;Rue de Charenton, avenue Ledru Rollin
-;;#N/A
 75012;37644;Avenue Courteline, boulevard périphérique intérieur
 75012;38396;Place Félix Eboué
 75012;41676;Rue Reuilly, boulevard Diderot
 75012;42411;Cours de Vincennes, avenue du Docteur Arnold Netter
-;;#N/A
 75012;42724;Place du Bataillon du Pacifique
 75012;46378;Quai de la Râpée, avenue Ledru Rollin
 75012;47130;Colonne Bastille Sud
-;;#N/A
 75012;48147;Place des Combattants en Afrique du Nord
 75012;53155;Rue de la Brèche aux Loups, rue de la Durance
-;;#N/A
 75012;58302;Avenue Daumesnil, boulevard Diderot
 75012;60061;Rue François Truffaut, rue de l'Ambroisie
 75012;61905;Boulevard Diderot, rue de Picpus
 75012;62164;Rue Roland Barthes, rue Chrétien deTroyes
-;;#N/A
 75012;64001;59, boulevard Soult
-;;#N/A
 75012;65346;Quai de Bercy, pont de Tolbiac
 75012;66094;Pont de Bercy Rive droite
 75012;68606;63, rue de Picpus
@@ -270,7 +217,6 @@ Code postal;Numéro;Implantation
 75012;80257;Avenue Saint-Mandé, rue de Picpus
 75012;84570;Rue Erard, rue de Reuilly
 75012;87643;19, rue du Colonel Rozanoff
-;;#N/A
 75012;90101;Place Félix Eboué angle avenue Daumesnil, boulevard de Reuilly
 75012;91445;Esplanade Saint-Louis
 75012;91873;Pont de Tolbiac (aval) — Seine
@@ -285,26 +231,18 @@ Code postal;Numéro;Implantation
 75013;13074;55, boulevard Vincent Auriol
 75013;13075;Rue du Château des Rentiers, rue Ricaut
 75013;13076;Rue Patay, rue de Tolbiac
-;;#N/A
 75013;13077;Boulevard Masséna, avenue de la Porte de Vitry
-;;#N/A
 75013;13080;Dalle Olympiades — Cour de Rome, Galerie Stadium
 75013;13081;Rue Bourgon, rue du Moulin de la Pointe
-;;#N/A
 75013;13085;Rue Bobillot, place Paul Verlaine, rue Vandrezanne
 75013;13087;Rue Jean-Baptiste Berlier, allée Paris-Ivry
-;;#N/A
 75013;13088;ZAC RG — Halle Freyssinet « douve » arrière créée
-;;#N/A
 75013;13089;RG — Bédier Ilot Franc-Nohain
-;;#N/A
 75013;13090;ZAC RG — Oudiné-Chevaleret
 75013;67935;Avenue Joseph Bédier, rue Maryse Bastié
 75013;68021;Boulevard Auguste Blanqui, rue Corvisart
-;;#N/A
 75013;68334;Boulevard Auguste Blanqui, rue de la Glacière
 75013;70071;Pont National amont — Seine
-;;#N/A
 75013;71821;Rue Regnault, rue du Château des Rentiers
 75013;73087;Pont d'Austerlitz aval — Seine
 75013;75329;Boulevard Vincent Auriol, quai d'Austerlitz
@@ -312,19 +250,14 @@ Code postal;Numéro;Implantation
 75013;79232;Boulevard Masséna, rue Jean-Baptiste Berlier
 75013;79596;Pont d'Austerlitz amont — Seine
 75013;80562;Pont National aval — Seine
-;;#N/A
 75013;81328;Place de Rungis — rue Barrault, rue Boussingault
-;;#N/A
 75013;82224;Rue de la Colonie, rue de la Fontaine à Mulard
 75013;83092;Rue des Grands Moulins, rue Marie Andrée Lagroua Weil Hallé
-;;#N/A
 75013;84568;Boulevard Vincent Auriol, rue Nationale
 75013;84574;Pont de Bercy (amont) — Seine
 75013;87040;91, boulevard Masséna
-;;#N/A
 75013;91336;Avenue Pierre de Coubertin, boulevard Kellermann
 75013;97058;Rue de Tolbiac, rue Nationale
-;;#N/A
 75014;10155;Avenue Ernest Reyer, rue Edmond Rousse
 75014;11453;Rue des Plantes, rue Antoine Chantin
 75014;13583;Boulevard Raspail, rue Huyghens
@@ -332,30 +265,22 @@ Code postal;Numéro;Implantation
 75014;14048;Rue Guilleminot, rue Crocé Spinelli
 75014;14063;Rue de la Sablière, rue Hippolyte Maindron
 75014;14067;Avenue Reille, rue René Coty
-;;#N/A
 75014;14068;Avenue Reille, rue Gazan et rue Lemaignan
-;;#N/A
 75014;14070;Promenade plantée Broussais — le long de la promenade
-;;#N/A
 75014;14071;Promenade plantée Broussais — zone bâtiment E.H.P.A.D.
 75014;14074;Rue Pernety, rue de l'Ouest
 75014;14251;Rue du Cange, rue de Gergovie
-;;#N/A
 75014;14602;Rue Raymond Losserand, rue Pierre Larousse
 75014;15349;Place de la Porte de Vanves
 75014;15950;Rue du Moulin de la Vierge, rue Decrès
 75014;16056;Place Denfert-Rochereau, rue de Grancey
 75014;18452;Rue de l'Eure, rue Didot
-;;#N/A
 75014;18838;Place Denfert-Rochereau, boulevard Saint-Jacques
-;;#N/A
 75014;20037;Place Denfert Rochereau, avenue du Général Leclerc
 75014;32303;Rue Saillard, place Ferdinand Brunot
-;;#N/A
 75014;32695;Rue de la Légion Etrangère, boulevard Romain Rolland
 75014;32762;Place Victor et Hélène Basch
 75014;33506;Rue d'Alésia, rue de la Tombe Issoire
-;;#N/A
 75014;39250;Boulevard Auguste Blanqui, rue de la Santé
 75014;41203;Avenue de la Porte d'Orléans, boulevard Romain Rolland
 75014;42789;Rue Jean Dolent, rue Messier
@@ -367,11 +292,9 @@ Code postal;Numéro;Implantation
 75015;39029;Boulevard Lefebvre, rue Jean Sicard
 75015;41677;Boulevard du Montparnasse, rue de l'Arrivée
 75015;43285;Place Raoul Dautry
-;;#N/A
 75015;43956;Place Marcel Cerdan, boulevard de Grenelle, rue Humblot
 75015;45963;Place Raoul Dautry, boulevard de Vaugirard, rue de l'Arrivée
 75015;48877;Rue George Bernard Shaw, rue Leroi Gourhan
-;;#N/A
 75015;49453;Avenue du Maine, rue du Départ
 75015;50863;21, boulevard de Vaugirard
 75015;53526;Rue de la Croix Nivert, rue Desnouettes
@@ -379,7 +302,6 @@ Code postal;Numéro;Implantation
 75015;65530;Rue Falguière, rue Bargue
 75015;68651;Avenue de Suffren, avenue de la Motte-Piquet
 75015;69625;Place des Martyrs Juifs du Vélodrome d'Hiver
-;;#N/A
 75015;70417;Rue Platon, rue Falguière
 75015;70737;Place Charles Michels
 75015;71637;Rond-point du pont Mirabeau, quai André Citroën
@@ -397,36 +319,25 @@ Code postal;Numéro;Implantation
 75016;10194;Quai de New-York, devant le Palais de Tokyo
 75016;13418;Avenue Kléber, avenue des Portugais
 75016;14140;Place du Maréchal de Lattre de Tassigny
-;;#N/A
 75016;15181;Boulevard Murat, rue Lecomte du Nouy, rue de Varize
-;;#N/A
 75016;16071;Avenue Chantemesse, avenue du Maréchal Fayolle
-;;#N/A
 75016;16124;Avenue de la Muette, avenue Ingres, avenue Prudhon
-;;#N/A
 75016;16134;Avenue Ferdinand Buisson, avenue Georges Lafont, avenue Félix d'Herelle
-;;#N/A
 75016;16135;Avenue Edouard Vaillant, avenue Ferdinand Buisson
 75016;16137;Rue du Sergent Maginot, rue de l'Arioste
-;;#N/A
 75016;16139;Porte de Boulogne, boulevard d'Auteuil (Bois de Boulogne)
 75016;16145;Boulevard Murat, rue Daumier
 75016;16146;Boulevard Murat, quai Saint-Exupéry
-;;#N/A
 75016;16147;Place Dr Hayem (Boulainvilliers/La Fontaine)
 75017;17065;Rue Pierre Rebière, voie accès boulevard Bessières
 75017;17073;Rue Brunetière, rue de l'Abbé Rousselot
 75017;17077;Rue Marie-Georges Picquart — Coté collège et crèche
-;;#N/A
 75017;17081;Batignolles — rue André Suarez, rue du Bastion
-;;#N/A
 75017;17084;Batignolles — boulevard Berthier, rue Mstislav Rostropovitch
-;;#N/A
 75017;17086;Batignolles — rue Mstislav Rostropovitch Sud
 75017;17087;Batignolles — rue Gilbert Cesbron Nord
 75017;17088;Batignolles — rue Gilbert Cesbron Sud
 75017;17089;Batignolles — rue Bernard Buffet, rue René Blum
-;;#N/A
 75017;17092;ZAC Pouchet — allée des Cerisiers
 75017;17093;ZAC Pouchet — place Pouchet
 75017;17094;Rue des Batignolles, rue des Dames
@@ -436,26 +347,19 @@ Code postal;Numéro;Implantation
 75017;18085;21 bis, rue Jean Leclaire
 75017;18308;Rue Curnonsky, rue Raymond Pitet
 75017;18536;Avenue de la Porte d'Asnières, boulevard de Reims
-;;#N/A
 75017;18656;Place Paul Tortelier, rue Marguerite Long, rue Stéphane Grappelli
-;;#N/A
 75017;19182;Avenue de Saint-Ouen, avenue de Clichy
-;;#N/A
 75017;26158;Boulevard de Courcelles, boulevard Malesherbes
 75017;28293;Place du Maréchal Juin
 75017;32355;Rue Boulay, rue de la Jonquière
 75017;34901;80, boulevard Bessières
-;;#N/A
 75017;41692;Rue de Courcelles, avenue Stéphane Mallarmé
 75017;43139;Rue Davy, rue Legendre
 75017;44258;Rue Descombes, boulevard Gouvion Saint-Cyr
 75017;47973;Avenue de la Porte des Ternes, rue Gustave Charpentier
-;;#N/A
 75017;48088;Place du Général Catroux
 75017;49795;Porte Maillot
 75017;55563;Avenue de Clichy, passage Petit Cerf
-;;#N/A
-;;#N/A
 75017;57632;Rue Maria Deraismes, rue Félix Pecaut
 75017;58709;Rue de Saussure, boulevard Pereire
 75017;65315;155, rue de Saussure
@@ -472,20 +376,16 @@ Code postal;Numéro;Implantation
 75017;87387;Rue Emile Borel, place Arnault Tzanck
 75017;87704;Rue de Rome, rue Cardinet
 75017;89632;Rue Biot, place Clichy
-;;#N/A
 75017;91182;Avenue de la Grande Armée, rue d'Argentine
 75018;49070;impasse des Fillettes, rue Charles Hermite, rue Emile Bertin
 75018;49804;Rue Marcadet, rue Damrémont
 75018;51595;Boulevard de Clichy, rue Caulaincourt
 75018;52236;Rue Poulet, rue Dejean
-;;#N/A
 75018;52675;Rue Polonceau, rue des Gardes
 75018;54506;Avenue de Saint-Ouen, rue de la Jonquière
-;;#N/A
 75018;58108;Avenue Saint-Ouen, rue Lamark, rue Etex
 75018;60904;Avenue de la Porte Montmartre, rue Gérard de Nerval
 75018;62366;Boulevard Ney, place de la Porte de Clignancourt
-;;#N/A
 75018;62384;Place du Tertre, place Jean Marais
 75018;64494;Rue du Poteau, boulevard Ney
 75018;67972;Rue Myrha, rue Affre
@@ -494,18 +394,14 @@ Code postal;Numéro;Implantation
 75018;73270;Boulevard de Rochechouart, rue de Clignancourt
 75018;76006;Rue de la Chapelle, rue du Pré
 75018;76356;Avenue de la Porte des Poissonniers, rue du Professeur Gosset
-;;#N/A
 75018;78121;Boulevard de la Chapelle, rue d'Aubervilliers
-;;#N/A
 75018;79855;Rue Riquet, rue d'Aubervilliers
 75018;79891;Rue de l'Evangile, rue d'Aubervilliers
 75018;80870;Boulevard Ney, rue d'Aubervilliers
 75018;81112;Rue Caulaincourt, rue du Mont Cenis
 75018;81580;Rue de Clignancourt, rue Marcadet
 75018;82127;Boulevard de la Chapelle, rue Marx Dormoy
-;;#N/A
 75018;82315;Rue Ordener, rue Championnet, rue Vauvenargues
-;;#N/A
 75018;82473;Rue Ordener, rue Damrémont
 75018;83922;Rue du Ruisseau, rue du Poteau
 75018;88886;Rond-point de la Chapelle, rue Raymond Queneau
@@ -516,10 +412,8 @@ Code postal;Numéro;Implantation
 75018;97289;Rue de Clignancourt, rue Doudeauville
 75018;98320;Rue Championnet, boulevard Ornano
 75018;98456;Avenue de la Porte de Clignancourt, rue Francis de Croisset
-;;#N/A
 75019;10568;Rue de Crimée, rue Botzaris
 75019;11812;70, rue de la Villette, face au cours du 7ième art
-;;#N/A
 75019;12412;Boulevard Sérurier, rue de Léman
 75019;12770;Rue de l'Ourcq, rue Léon Giraud
 75019;12969;Rue Archereau, rue de Crimée
@@ -528,7 +422,6 @@ Code postal;Numéro;Implantation
 75019;16661;Rue de Tanger, rue Riquet
 75019;17435;Rue de Crimée, rue Manin
 75019;18837;Avenue Corentin Cariou, quai de la Gironde
-;;#N/A
 75019;18897;85, avenue de Flandre
 75019;18960;Avenue Secrétan, rue Edouard Pailleron
 75019;19067;Rue Botzaris, rue Fessart
@@ -544,37 +437,30 @@ Code postal;Numéro;Implantation
 75001;01059;Jardin des Halles, Porte du Louvre
 75001;01060;Jardin des Halles, rue Berger, rue des Prouvaires
 75001;01065;Halles — Canopée Nord-Ouest, rue Rambuteau
-;;#N/A
 75001;01066;Jardin des Halles — Saint-Eustache, Rambuteau
 75001;01067;Jardin des Halles — Prairie Ouest
 75001;01068;Jardin des Halles — Prairie Est
-;;#N/A
 75001;01069;Jardin des Halles — allée Nord-Ouest, Coquillière
 75001;01070;Halles — Canopée Nord-Ouest
 75001;01071;Halles — Canopée Sud-Ouest, rue Berger
 75001;01072;Jardin des Halles — Sud-Ouest Canopée
 75001;10439;Rue Berger, rue Pierre Lescot
 75001;10642;Rue de Rivoli, rue des Bourdonnais
-;;#N/A
 75001;11498;Rue Rambuteau, boulevard de Sébastopol
-;;#N/A
 75001;11522;Quai des Tuileries, pont de Solférino — Seine
 75001;16819;Rue des Pyramides, avenue de l'Opéra
 75001;16887;Quai de la Mégisserie, Pont Neuf
 75001;23987;Rue de la Paix, rue Danielle Casanova
 75001;29222;Place Joachim du Bellay, rue Saint-Denis, rue des Innocents
-;;#N/A
 75001;30950;Place du Châtelet
 75001;34698;Rue Pierre Lescot, rue de Turbigo
 75001;35346;Rue Colonel Driant, rue Valois
 75001;42234;Place Joachim du Bellay, rue Berger, rue Pierre Lescot
-;;#N/A
 75001;44373;Rue de Rivoli, rue de l'Echelle
 75003;77904;Rue de Bretagne, rue de Turenne
 75003;84550;Place de la République, rue du Temple
 75003;84854;Rue de Turbigo, rue du Temple
 75003;86717;Boulevard Beaumarchais, rue des Arquebusiers
-;;#N/A
 75004;04051;Rue des Francs Bourgeois, rue Vieille du Temple
 75004;04058;Rue de Sully, boulevard Henri IV
 75004;04059;Boulevard Bourdon, rue Bassompierre
@@ -590,7 +476,6 @@ Code postal;Numéro;Implantation
 75004;29770;Quai de Gesvres, rue Saint-Martin
 75004;31606;Rue de la Coutellerie, avenue Victoria
 75004;42910;Pont Louis Philippe, quai de l'Hôtel de Ville
-;;#N/A
 75004;43699;Place du Marché Sainte-Catherine
 75004;45070;3, rue de Lobau
 75004;47437;Rue de la Verrerie, rue du Renard
@@ -617,7 +502,6 @@ Code postal;Numéro;Implantation
 75005;12312;Rue Blainville, place de la Contrescarpe
 75005;15242;Place Maubert
 75005;20669;Boulevard Saint-Germain, quai de la Tournelle
-;;#N/A
 75005;38623;Boulevard Saint-Michel, place de laSorbonne
 75005;39271;Boulevard Saint-Michel, rue Soufflot
 75005;43043;Rue de la Harpe, rue de la Huchette
@@ -626,67 +510,49 @@ Code postal;Numéro;Implantation
 75005;50581;Rue Linné, rue des Boulangers
 75005;50850;Rue Saint-Jacques, rue des Ecoles
 75005;53322;Boulevard Saint-Germain, rue Saint-Jacques
-;;#N/A
 75005;53679;Boulevard Saint-Michel, place Louis Marin
 75005;54992;Pont de Sully, quai Tournelle
 75005;58021;Square Tino Rossi, quai Saint-Bernard
 75007;21909;Boulevard de la Tour Maubourg, rue de l'Université
 75007;23371;Port de Solférino, niveau Musée de la Légion d'Honneur — Seine
-;;#N/A
 75007;29075;Port des Invalides, aval du pont Alexandre III — Seine
-;;#N/A
 75007;30736;Rue de Sèvres, rue du Bac
 75007;31779;Rue de Grenelle, rue de Bellechasse
 75007;33282;Avenue du Maréchal Galliéni, rue de l'Université
-;;#N/A
 75007;34479;Avenue du Général Détrié, avenue Charles Floquet
 75007;38775;Place de la Résistance
 75007;39992;Quai Branly, pont d'Iéna
 75007;46990;Pont Alexandre III, quai Anatole France
 75007;52217;Avenue de Suffren, avenue Joseph Bouvard
-;;#N/A
 75007;52733;Assemblée Nationale
 75007;53718;Place du Général Gouraud
 75007;54776;Port du Gros Caillou, aval pont des Invalides — Seine
-;;#N/A
 75007;55428;Avenue de Tourville, avenue de Ségur
 75007;56074;Place Jacques Rueff
 75007;56154;Avenue de Tourville, avenue de Villars
 75007;56538;Rue de la Comète, rue de Grenelle
 75007;58390;Avenue de la Motte Picquet, rue Cler
 75007;59293;Avenue Emile Deschanel, avenue de Belgrade
-;;#N/A
 75007;59729;Rue du Bac, rue de Varenne
 75007;60073;Port des Invalides, aval pont de la Concorde — Seine
-;;#N/A
 75007;60800;Boulevard des Invalides, rue de Varenne
 75007;63877;Port de la Bourdonnais, aval pont de l'Alma — Seine
-;;#N/A
 75007;66070;Port de Solférino, niveau Musée d'Orsay — Seine
-;;#N/A
-;;#N/A
-;;#N/A
 75007;69064;Boulevard des Invalides, avenue de Tourville
-;;#N/A
-;;#N/A
-;;#N/A
 75007;69121;Rue de l'Université, rue de Constantine
 75007;69173;Avenue Duquesne, avenue de Ségur
 75007;71064;Quai Anatole France, Pont Royal
 75007;71658;Place Joffre
 75007;72958;Pont de la Concorde, quai Anatole France
 75007;75099;Avenue Saxe, avenue Breteuil (place de Breteuil)
-;;#N/A
 75007;76202;Quai Branly trottoir Nord
 75007;77782;Quai Branly voie Nord
 75007;78472;Port de Solférino, niveau 23, quai Anatole France — Seine
-;;#N/A
 75007;83731;Place du Palais Bourbon
 75007;83784;Mail Branly, Passerelle Débilly
 75007;86183;Rue Saint-Dominique, rue Amélie
 75007;86298;Pilier Sud de la Tour Eiffel
 75007;86874;Port des Invalides, amont du pont Alexandre III — Seine
-;;#N/A
 75007;87406;Quai Voltaire, pont du Carrousel
 75007;89776;Port du Gros Caillou
 75007;90890;Pont des Invalides (amont) — Seine
@@ -699,22 +565,18 @@ Code postal;Numéro;Implantation
 75009;09060;Rue de la Rochefoucauld, rue d'Aumale
 75009;09062;Rue La Bruyère, rue Notre-Dame de Lorette
 75009;10372;Rue de la Tour d'Auvergne, rue Milton
-;;#N/A
 75009;10756;Rue Pierre Fontaine, rue Jean-Baptiste Pigalle
 75009;13257;Rue Mayran, rue Rochambeau
 75009;15819;Boulevard de la Chapelle, boulevard Magenta
 75009;17498;Rue La Fayette, rue Pierre Sémard
 75009;20076;Place d'Anvers, avenue Trudaine
 75009;24660;Place Blanche, boulevard de Clichy, rue Lepic
-;;#N/A
 75009;25108;Rue Drouot, rue La Fayette, rue du Faubourg Montmartre
 75009;25540;Place de l'Opéra, boulevard des Capucines
-;;#N/A
 75009;27982;Rue du Faubourg Poissonnière, rue du Delta
 75009;32213;Place d'Anvers, boulevard de Rochechouart
 75009;33643;Rue Sainte-Cécile, rue Trévise
 75009;35099;Place Blanche, boulevard de Clichy, rue de Bruxelles
-;;#N/A
 75009;46329;Place Charles Garnier, rue Auber, rue Scribe
 75009;47183;Rue de Douai, place Adolphe Max
 75009;48781;Place Pigalle, rue Jean-Baptiste Pigalle
@@ -722,7 +584,6 @@ Code postal;Numéro;Implantation
 75009;55431;Rue Drouot, rue Rossini
 75009;57584;Rue de Châteaudun, rue La Fayette
 75009;58520;Rue des Martyrs (pair), rue de la Tour d'Auvergne (pair)
-;;#N/A
 75009;59521;Rue de la Chaussée d'Antin, rue Halévy
 75009;61124;Rue de Rochechouart, avenue de Dunkerque
 75009;64951;Rue de Caumartin, boulevard Haussmann
@@ -734,12 +595,7 @@ Code postal;Numéro;Implantation
 75009;84503;Rue du Faubourg Montmartre, rue Montyon
 75009;84555;Rue Fontaine, rue de Douai
 75009;84772;Rue du Faubourg Poissonnière, rue Richer
-;;#N/A
-;;#N/A
 75009;87208;Boulevard de Clichy, boulevard de Rochechouart
-;;#N/A
-;;#N/A
-;;#N/A
 75009;88620;Place Pigalle Est — boulevard de Clichy, rue Houdon
 75009;89791;Rue Clichy, rue de Moncey
 75009;92563;Boulevard Poissonnière, rue du Sentier
@@ -748,15 +604,11 @@ Code postal;Numéro;Implantation
 75009;95710;Boulevard Haussmann, rue Le Peletier
 75010;10064;Rue du Faubourg Saint-Denis, rue de Metz
 75010;10067;Rue de Paradis, rue Martel
-;;#N/A
 75010;10068;Rue du Faubourg Saint-Denis, boulevard Magenta — square A Satragne
 75011;11056;Rue de Charonne, rue de Lappe
 75011;11057;Bréguet Chemin Vert — Villa Marcès — gymnase
-;;#N/A
 75011;11058;Jardin Truillot — entrée jardin côté boulevard Richard Lenoir
-;;#N/A
 75011;13871;Boulevard Voltaire, rue Jean-Pierre Timbaud
-;;#N/A
 75011;15301;Rue Merlin, rue Duranti
 75011;16178;Rue Oberkampf, boulevard Voltaire
 75011;28421;Place de la Nation, Cours de Vincennes
@@ -764,7 +616,6 @@ Code postal;Numéro;Implantation
 75011;30567;Avenue Parmentier, rue Oberkampf
 75011;30637;Rue de Charonne, avenue Ledru-Rollin
 75011;33278;Avenue Philippe Auguste, boulevard de Charonne
-;;#N/A
 75011;37820;Rue Léon Frot, rue Mercœur
 75011;43592;Boulevard Voltaire, rue du Chemin Vert
 75011;44425;Avenue de la République, rue Saint-Maur
@@ -772,7 +623,6 @@ Code postal;Numéro;Implantation
 75011;52920;Boulevard Voltaire, rue de Montreuil
 75011;53843;Boulevard Richard Lenoir, rue Saint-Sabin
 75011;55843;Rue Mercœur, rue Auguste Laurent
-;;#N/A
 75011;60866;Rue Robert Houdin, rue du Faubourg du Temple
 75011;64906;Place de la Nation, boulevard Diderot
 75011;68231;Boulevard Voltaire, rue Saint-Ambroise
@@ -791,10 +641,6 @@ Code postal;Numéro;Implantation
 75012;12069;Rue de Charenton, boulevard de Reuilly
 75012;12082;Parc de Bercy, skate Parc
 75012;12083;Rue Hénard, allée Vivaldi
-;;#N/A
-;;#N/A
-;;#N/A
-;;#N/A
 75012;12087;Bercy Charenton — prolongement rue Baron Le Roy
 75012;12088;Léo Lagrange
 75012;12089;Avenue du Général Bizot, rue du Sahel
@@ -807,97 +653,73 @@ Code postal;Numéro;Implantation
 75012;17662;Rue de Tourneux, rue Edouard Robert
 75012;19963;Rue de Wattignies, rue de Fécamp
 75012;30427;Place Colonel Bourgouin — rue Erard, rue de Charenton
-;;#N/A
 75012;30906;Place Henri Frenay, rue Roland Barthes
 75013;13091;ZAC Paul Bourget — arrière de la rue Bourget
-;;#N/A
 75013;13103;Rue Louise Bourgeois, rue Julie Daubie
 75013;13105;Place Aurélie Nemours
 75013;13106;Place Jean-Michel Basquiat — Avenue de France, rue Emile Durkheim
 75013;13107;Place Jean-Michel Basquiat — Promenade plantée
 75013;13108;Rue Chevaleret, rue Alphonse Boudard, rue Charcot
 75013;13109;Avenue Pierre Mendès France, rue Paul Klee
-;;#N/A
 75013;13110;Rue Ada Lovelace
 75013;13231;Olympiades — Londres, Anvers
 75013;13412;Pont Charles de Gaulle, quai d'Austerlitz
 75013;13532;Olympiades — Mexico
 75013;13700;Olympiades — Squaw Valley
-;;#N/A
 75013;13967;Rue du Colonel Dominé (Côté porte d'Italie)
 75013;14765;Place de Vénétie
 75013;15476;Rue de Tolbiac, rue du Chevaleret
 75013;15868;Rue des Peupliers, rue du docteur Tuffier
-;;#N/A
 75013;16244;Avenue de la Porte d'Ivry, avenue Claude Régaud
 75013;16986;Avenue d'Italie, rue de Tolbiac
 75013;17197;Rue Docteur Magnan, rue Charles Moureu
-;;#N/A
 75013;18332;Rue du Chevaleret, rue Clisson
 75013;19286;Olympiades — Rome (accueil)
 75013;19566;Avenue d'Ivry (côté impair) au niveau de la rue Regnault
-;;#N/A
 75013;23065;Avenue d'Italie, rue Vandrezanne
 75013;25765;Rue Cantagrel, rue Eugène Oudiné
 75013;28637;Rue Péan, boulevard Masséna
 75013;29435;Rue Albert, rue Jean Fautrier
 75013;30118;15 bis, rue de Tolbiac
 75013;33183;Boulevard Général Jean Simon, Pont National
-;;#N/A
 75013;35012;Place Claude Bourdet, rue des Cordelières, rue Corvisart
 75013;45705;Carrefour des Gobelins
 75013;46911;Rue Sainte-Hélène, rue de la poterne des Peupliers
 75013;47653;Rue du Dessous des Berges, rue Eugène Oudiné, rue de Patay
-;;#N/A
 75013;47824;Rue Jeanne d'Arc, rue de Domrémy, rue de Patay
-;;#N/A
 75013;48567;Avenue des Gobelins, boulevard Saint-Marcel
 75013;53448;Avenue des Gobelins, boulevard Saint- Marcel
 75013;58557;Boulevard Saint-Marcel, boulevard de l'Hôpital
-;;#N/A
 75013;60972;Face au 122, rue du Château des Rentiers
 75013;61371;Place d'Italie, côté avenue des Gobelins
 75013;62347;Pont de Tolbiac, quai François Mauriac
 75013;62732;Boulevard de l'Hôpital, rue Pinel
 75013;62734;Porte d'Italie/périphérique
 75013;63591;Boulevard Masséna, avenue de la Porte d'Ivry
-;;#N/A
 75013;64071;Boulevard de l'Hôpital, quai d'Austerlitz, gare d'Austerlitz
-;;#N/A
 75013;64594;Avenue de Choisy, rue Baudricourt
 75013;66003;Place d'Italie, rue Bobillot, boulevard Auguste Blanqui
-;;#N/A
 75013;67014;Rue Jeanne d'Arc, boulevard Saint-Marcel
-;;#N/A
 75013;67390;Vis-à-vis du 90, rue de Tolbiac
 75014;44351;Boulevard Jourdan — RER
 75014;48506;Place Fernand Mourlot — rue de la Gaîté, boulevard Edgard Quinet
-;;#N/A
 75014;51743;Avenue de la Porte d'Orléans, place du 25 août 1944
-;;#N/A
 75014;54322;Place Perroy, avenue du Maine
 75014;54552;Rue Vercingétorix, rue d'Alésia
 75014;56510;Avenue Maurice d'Ocagne, avenue Georges Lafenestre
-;;#N/A
 75014;60857;Rue Boulard, rue Daguerre
 75014;61992;Avenue Adolphe Pinard, avenue de la Porte de Châtillon
 75014;70540;Rue d'Alésia, villa d'Alésia
 75014;71184;Boulevard de Port Royal, avenue de l'Observatoire
-;;#N/A
 75014;73923;Avenue Jean Moulin, boulevard Brune
 75014;75264;10, boulevard Brune
 75014;77797;Avenue Marc Sangnier, rue Wilfrid Laurier
 75014;79474;Place de Moro Giafféri
 75014;81104;Boulevard Brune, avenue de la Porte de Vanves
-;;#N/A
 75014;81787;Rue Messier, boulevard Arago
 75014;81962;Jonction boulevard Brune, boulevard Jourdan
-;;#N/A
-;;#N/A
-;;#N/A
 75014;83358;Rue d'Alésia, rue Didot
 75014;86283;Boulevard Edgard Quinet, boulevard Raspail
-;;#N/A
 75014;89511;Rue Raymond Losserand, rue d'Alésia
 75014;92903;Rue Vercingétorix, rue Pernety
 75014;94232;Rue Raymond Losserand, rue Pernety
@@ -907,15 +729,11 @@ Code postal;Numéro;Implantation
 75015;11675;Rue Desaix, place Alfred Sauvy
 75015;11877;Esplanade de la Mairie
 75015;12079;Avenue Albert Bartholomé, rue André Theuriet
-;;#N/A
 75015;12972;Rue Jean Fourastie (face DOJO)
 75015;13273;Rue Bargue, rue Platon
 75015;15067;Rue du Colonel Pierre Avia, contre-allée des Frères Voisin
-;;#N/A
 75015;15085;Beaugrenelle/Rampe d'accès rue Docteur Finlay
-;;#N/A
 75015;15089;Beaugrenelle/Passerelle Est, colonne CPCU
-;;#N/A
 75015;15090;Beaugrenelle/Passerelle Ouest, Mercure II
 75015;15092;Beaugrenelle/Reflets
 75015;15093;Beaugrenelle/Synagogue, Rive Gauche
@@ -925,16 +743,13 @@ Code postal;Numéro;Implantation
 75015;15113;Rue Brancion, rue de Vouillé
 75015;15114;Rue de Vouillé, rue de Castagnary
 75015;15116;Rue de Vaugirard, place Adolphe Chérioux
-;;#N/A
 75015;15119;ZAC Boucicaut — allée Irène Némirovsky
 75015;15120;Rue Emeriau, rue du Théatre
 75015;17112;Rue des Quatre frères Peignot, avenue Emile Zola
 75015;17168;Rue Saint-Charles, rue Varet
 75015;25702;Rue Léon Lhermitte, rue du docteur Jacquemaire Clémenceau
 75016;17596;Pont Bir Hakeim, avenue du Président Kennedy
-;;#N/A
 75016;17849;Boulevard Suchet, rue Raffet, square TolstoÏ
-;;#N/A
 75016;18695;Rue Saint-Didier, rue Mesnil
 75016;19196;Boulevard Murat, place de la Porte Molitor
 75016;22575;Rue de la Pompe, avenue Henri Martin
@@ -960,35 +775,22 @@ Code postal;Numéro;Implantation
 75016;72093;Pont Bir Hakeim côté rive droite aval — Seine
 75016;74609;Rue de Passy, Chaussée de la Muette
 75016;82540;Avenue Georges Lafont, rue Edouard Vaillant
-;;#N/A
 75016;84766;Allée de Longchamp, route des Moulins
 75016;85275;Pont Mirabeau aval — Seine
 75016;85982;Pont d'Iéna amont — Seine
-;;#N/A
 75016;87335;Route de l'hippodrome Carrefour des Cascades
-;;#N/A
 75016;91353;Place de Varsovie
 75016;93829;Avenue Raphaël, boulevard Suchet
-;;#N/A
-;;#N/A
-;;#N/A
-;;#N/A
-;;#N/A
-;;#N/A
 75016;97703;Avenue des Nations Unies, rue Le Nôtre
 75016;98777;Jardins du Trocadéro
-;;#N/A
-;;#N/A
 75017;10510;Rue Cardinet, rue Lemercier
 75017;11943;Avenue des Ternes, avenue Niel
 75017;12852;Avenue de Clichy, rue Guy Moquet
 75017;16458;Avenue de la Porte d'Asnières, boulevard Berthier
-;;#N/A
 75017;17064;Avenue de Saint-Ouen, rue Navier
 75017;92088;Avenue de la Porte de Saint-Ouen, boulevard Ney
 75017;99639;Place du Général Koenig
 75018;10630;Place Jules Joffrin, rue Hermel
-;;#N/A
 75018;10631;Porte de la Chapelle, boulevard Ney, avenue de la Porte de la Chapelle
 75018;12278;Place Paul Eluard
 75018;15048;Rue Jean Henri Fabre, rue du Colonel Dax
@@ -1000,31 +802,21 @@ Code postal;Numéro;Implantation
 75018;18086;Rue Doudeauville, boulevard Barbès
 75018;18087;Rue de la Goutte d'Or, rue des Islettes
 75018;18088;Rue de Panama, rue Léon
-;;#N/A
 75018;18091;Rue Pajol, rue du Département, rue Philippe de Girard
 75018;18093;Rue Pajol, rue Romy Schneider
 75018;18094;Rue Riquet, rue Pajol
-;;#N/A
 75018;18098;Rue de la Porte des Poissonniers, rue Jean Cocteau
 75018;18104;Rue Marcadet, rue du Ruisseau
 75018;18110;Binet — nouvelle voie Maurice Grimaud
-;;#N/A
 75018;18111;Rue des Poissonniers, rue Championnet
 75018;18112;110-122, rue des Poissonniers — prolongement voie vers rue Ordener
-;;#N/A
 75018;18113;Chapelle International — nouvelle voie créée
-;;#N/A
 75018;18114;Chapelle International — nouvelle voie créée parallèle
-;;#N/A
 75018;18115;Rue Labat, boulevard Barbès
-;;#N/A
 75018;18201;Porte de la Chapelle — boulevard Ney, avenue Porte de la Chapelle — Centre migrants
 75018;18202;Porte de la Chapelle — boulevard Ney, avenue Porte de la Chapelle — Centre migrants
-;;#N/A
-;;#N/A
 75018;19071;Boulevard Barbès, boulevard de Rochechouart
 75018;20785;Square Louise Michel
-;;#N/A
 75018;22378;Boulevard Barbès, boulevard Rochechouart
 75018;24022;Place Blanche, rue Blanche
 75018;25902;Rue René Binet, rue Fernand Labori
@@ -1036,7 +828,6 @@ Code postal;Numéro;Implantation
 75018;35296;Rue Stéphenson, rue Doudeauville
 75018;40936;Rue Léon, rue Cavé
 75018;41624;Rue du Département, rue Caillie
-;;#N/A
 75018;42595;Rue de Steinkerque, boulevard de Rochechouart
 75018;43793;Rue Caulaincourt, rue Joseph de Maistre
 75018;44255;Rue Yvonne le Tac, rue Chappe, rue Tardieu
@@ -1052,7 +843,6 @@ Code postal;Numéro;Implantation
 75019;19082;Rue Gaston Rebuffat, rue de Kabylie
 75019;19083;Rue Paul Laurent
 75019;19084;Rue Bellot, rue d'Aubervilliers
-;;#N/A
 75019;19086;Cité des Orgues de Frandre — rue du Docteur Lamaze
 75019;19087;Cité des Orgues de Flandre, Porte des Flamands
 75019;19088;Cité des Orgues de Flandre — Sud
@@ -1063,11 +853,8 @@ Code postal;Numéro;Implantation
 75019;19095;Rue de la Gare, Passerelle périphérique
 75019;19097;Rue Césaria Evora, voie de la Blanchisserie
 75019;19098;Boulevard Macdonald, rue Lounes Matoub
-;;#N/A
 75019;19099;Boulevard Macdonald, esplanade Nord gare Rosa Parks
-;;#N/A
 75019;19100;Gare Rosa Parks — rue Gaston Tessier, rue Henri Verneuil
-;;#N/A
 75019;19101;Rampe Ouest vers boulevard Macdonald, rue Cesaria Evora
 75019;19103;Boulevard Macdonald, quai de la Gironde
 75019;22881;Boulevard Macdonald, quai de la Gironde
@@ -1091,10 +878,8 @@ Code postal;Numéro;Implantation
 75019;51650;Boulevard Sérurier, rue David d'Angers
 75019;52246;Rue Rebeval, rue Jules Romains
 75019;52383;Place des Fêtes
-;;#N/A
 75019;54117;Place Rhin et Danube, rue David d'Angers, rue Miguel Hidalgo
 75019;56891;Avenue Jean Jaurès, sente des Dorées
-;;#N/A
 75019;59248;Rue Pierre Reverdy devant le parc coté pair
 75019;62302;Rue Petit, rue Georges Auric
 75019;63449;Rue de l'Ourcq, rue Curial
@@ -1102,6 +887,5 @@ Code postal;Numéro;Implantation
 75019;64554;Rue de Meaux, avenue Secretan
 75019;67376;Avenue Jean Jaurès, rue Armand Carrel
 75019;67387;Rue de Belleville, avenue Simon Bolivar
-;;#N/A
 75019;68495;Avenue Mathurin Moreau, avenue Simon Bolivar
 75019;75203;Rue Adolphe Mille, avenue Jean Jaurès
