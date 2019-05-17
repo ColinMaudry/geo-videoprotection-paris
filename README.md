@@ -27,7 +27,8 @@ NextINpact a résumé la situation dans [cet article](https://www.nextinpact.com
     - aux colonnes `Numéro` des annexes 1 et 2
     - à la fonction [`VLOOKUP`](https://wiki.openoffice.org/wiki/Documentation/How_Tos/Calc:_VLOOKUP_function) de LibreOffice
 5. Remplissage manuel des quelques lignes manquantes de l'annexe 2 grâce à la colonne numéro et le PDF source
-6. Export au format CSV, encodage UTF-8, colonne séparées par des point-virgules (;).
+6. Export au format CSV, encodage UTF-8, colonne séparées par des point-virgules (;)
+7. Par un procédé similaire au 4., j'ai récupéré les dates de mise en service des caméras (source : [fichier ODS du site de la Préfecture de Police](https://www.prefecturedepolice.interieur.gouv.fr/content/download/33829/257164/file/2018-11-14%20-%20Liste%20cam%C3%A9ras%20PVPP%20sur%20Paris%20-%20Site%20internet.ods))
 
 ## Attribution
 
