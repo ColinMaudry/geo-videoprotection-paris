@@ -16,3 +16,19 @@ Il y a en fait deux listes d'emplacements :
 Ces deux listes ont de nombreux emplacements en commun.
 
 NextINpact a résumé la situation dans [cet article](https://www.nextinpact.com/brief/-a-paris--1-400-implantations-de-cameras-de-surveillance-autorisees-par-arrete-8706.htm).
+
+## Mode opératoire
+
+1. Conversion du PDF en fichier MS Excel grâce à l'outil en ligne [PDFtables.com](http://pdftables.com)
+2. Nettoyage du texte ne faisant pas partie des données dans LibreOffice
+3. Reconstitution des lignes manuellement dans LibreOffice pour l'annexe 1 (certaines lignes étaient coupées en deux, des espaces manquaient)
+4. Reconstitution automatique quasi-complète de la colonne `Implantation` de l'annexe 2 grâce
+    - à la colonne `Implantation` nettoyée de l'annexe 1
+    - aux colonnes `Numéro` des annexes 1 et 2
+    - à la fonction [`VLOOKUP`](https://wiki.openoffice.org/wiki/Documentation/How_Tos/Calc:_VLOOKUP_function) de LibreOffice
+5. Remplissage manuel des quelques lignes manquantes de l'annexe 2 grâce à la colonne numéro et le PDF source
+6. Export au format CSV, encodage UTF-8, colonne séparées par des point-virgules (;).
+
+## Attribution
+
+Photo bannière par [Free-Photos](https://pixabay.com/fr/users/Free-Photos-242387/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1149495) de [Pixabay](https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1149495).
